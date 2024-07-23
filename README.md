@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Laís Saldanha
 
 - 🔭 Atualmente curso o 1° semestre de Ciência da Computação
-- 🌱 Aprendendo Java
+- 🌱 Aprendendo Web e Java
 - 💬 Me contate no email abaixo!
 
 <div>
